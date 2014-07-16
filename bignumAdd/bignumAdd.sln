@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bignumAdd", "bignumAdd\bignumAdd.vcxproj", "{76D86B3F-2BD7-4FFC-9C53-0F7AB7275006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D86B3F-2BD7-4FFC-9C53-0F7AB7275006}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76D86B3F-2BD7-4FFC-9C53-0F7AB7275006}.Debug|Win32.Build.0 = Debug|Win32
+		{76D86B3F-2BD7-4FFC-9C53-0F7AB7275006}.Release|Win32.ActiveCfg = Release|Win32
+		{76D86B3F-2BD7-4FFC-9C53-0F7AB7275006}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
