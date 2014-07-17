@@ -82,7 +82,7 @@ node *reverse(node *head) {
 
 	head->next = p1;
 
-	cout<< "After reversed:" <<endl;
+	//cout<< "After reversed:" <<endl;
 	return head;
 }
 
@@ -146,8 +146,9 @@ int main() {
 	//reverse
 	cout<< "*******************Reverse************" <<endl;
 	L1 = reverse(L1);
-	cout<< "L1 ";
+	cout<< "num1 reversed:" <<endl;
 	print(L1);
+	cout<< "num2 reversed:" <<endl;
 	L2 = reverse(L2);
 	print(L2);
 
@@ -157,8 +158,8 @@ int main() {
 	cout<< "After add:"<<endl;
 	print(L1);
 
+	cout<< "Get final result by reverse:"<<endl;
 	reverse(L1);
-	cout<< "Final result:"<<endl;
 	print(L1);
 
 	return 0;
